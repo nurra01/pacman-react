@@ -1,6 +1,6 @@
 {
   "name": "react-pacman",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Pacman game written as a React component",
   "main": "index.js",
   "scripts": {
@@ -41,14 +41,11 @@
     "style-loader": "^0.21.0",
     "webpack": "^4.8.3",
     "webpack-cli": "^3.1.1",
-    "webpack-dev-server": "^3.1.4",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0"
+    "sass": "^1.49.11",
+    "webpack-dev-server": "^3.1.4"
   },
   "dependencies": {
-    "classnames": "^2.2.5"
-  },
-  "peerDependencies": {
+    "classnames": "^2.2.5",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
   }
